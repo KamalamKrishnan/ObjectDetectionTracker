@@ -14,6 +14,12 @@ This project uses the powerful **YOLOv8** object detection model along with Open
 
 ---
 
+## 📽️ Demo
+
+> _Optional: You can add a video/GIF of your project working here later!_
+
+---
+
 ## 🛠️ Tech Stack
 
 - 🐍 Python 3.10+
