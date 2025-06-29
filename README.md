@@ -16,7 +16,11 @@ This project uses the powerful **YOLOv8** object detection model along with Open
 
 ## 📽️ Demo
 
-> _Optional: You can add a video/GIF of your project working here later!_
+> Here's a quick look at the project in action:
+
+<p align="center">
+  <video src="od_demo.mp4" width="640" controls></video>
+</p>
 
 ---
 
@@ -25,7 +29,6 @@ This project uses the powerful **YOLOv8** object detection model along with Open
 - 🐍 Python 3.10+
 - 🤖 [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - 📷 OpenCV
-- 🧠 Pre-trained `yolov8n.pt` model
+- 🧠 Pre-trained `yolov8m.pt` model
 
 ---
-
